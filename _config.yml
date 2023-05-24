@@ -8,38 +8,45 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
+  - name: Tayo Daramola
+    pic: 2
+    position: Scrum Master
+
+  - name: Augustina Onwubuya
+    pic: augustina-picture
+    position: Assistant Scrum Master
+    social:
+      - title: linkedin
+        url: http://www.linkedin.com/in/Tina5110
+
+  - name: Michael Collins
+    pic: michael-picture
+    position: Product Owner
+
   - name: Kamto Eddy
     pic: eddy-picture
     position: Software Engineer
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: stack-overflow
-        url: #
-
-  - name: Larry Parker
-    pic: 2
-    position: Lead Marketer
-    social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
       - title: linkedin
-        url: #
-
-  - name: Diana Petersen
-    pic: 3
-    position: Lead Developer
-    social:
+        url: https://www.linkedin.com/in/kaed/
       - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
-        url: #
+        url: https://twitter.com/eddy_kamto
+
+  - name: Akangwa Willensky
+    pic: willensky-picture
+    position: Software Engineer
+
+  - name: Shey Anabell
+    pic: anabell-picture
+    position: QA Engineer
+
+  - name: Ekwoge Njitor
+    pic: 2
+    position: QA Engineer
+
+  - name: Victor Enebeli
+    pic: 2
+    position: QA Engineer
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
