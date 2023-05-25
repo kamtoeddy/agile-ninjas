@@ -291,7 +291,7 @@ header .intro-text {
 @media(min-width:1024px) {
     header .intro-text {   
         text-align: left;
-        min-width: 80%;
+        width: 70% !important;
         padding: 2rem 3rem;
 
     }
