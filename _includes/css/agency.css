@@ -633,6 +633,24 @@ section h3.section-subheading {
     }
 }
 
+.team-members {
+    width: 100%;
+    margin: 0;    
+    padding: 12px;
+    
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+
+    gap: 12px;
+}
+
+@media(min-width:768px) {
+    .team-members {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;

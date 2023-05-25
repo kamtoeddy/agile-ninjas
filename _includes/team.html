@@ -9,30 +9,28 @@
       </div>
     </div>
 
-    <div class="row d-flex flex-wrap">
+    <div class="team-members">
       {% for member in site.people %}
-      <div class="col-sm-4">
-        <div class="team-member">
-          <img
-            src="img/team/{{ member.pic }}"
-            class="img-responsive img-circle"
-            alt=""
-          />
+      <div class="team-member">
+        <img
+          src="img/team/{{ member.pic }}"
+          class="img-responsive img-circle"
+          alt=""
+        />
 
-          <h4>{{ member.name }}</h4>
+        <h4>{{ member.name }}</h4>
 
-          <p class="text-muted">{{ member.role }}</p>
+        <p class="text-muted">{{ member.role }}</p>
 
-          <ul class="list-inline social-buttons">
-            {% for network in member.social %}
-            <li>
-              <a href="{{ network.url }}" target="_blank">
-                <i class="fa fa-{{ network.title }}"></i>
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
+        <ul class="list-inline social-buttons">
+          {% for network in member.social %}
+          <li>
+            <a href="{{ network.url }}" target="_blank">
+              <i class="fa fa-{{ network.title }}"></i>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
       </div>
       {% endfor %}
     </div>
