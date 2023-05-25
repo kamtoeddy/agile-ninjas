@@ -690,6 +690,8 @@ section h3.section-subheading {
 }
 
 aside.clients img {
+    width: 200px;
+    height: 50px;
     margin: 50px auto;
 }
 
