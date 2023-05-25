@@ -1,15 +1,14 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: E-commerce Website
+subtitle: Web Development
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2023-02-18
+img: e-commerce-website.png
+thumbnail: e-commerce-website.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: February 2023
+client: Glappy Shoes
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Glappy Shoes, is a group of individuals who are passionate about celebrating the artistry of Cameroonian women and their craft of making handmade shoes. They are dedicated to providing a platform for Cameroonian women to showcase their artistry and creativity through their handmade shoes. Their goal is to provide a space for Cameroonian women to tell their stories, share their culture and history, and empower one another
 ---
