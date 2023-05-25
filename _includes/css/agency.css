@@ -277,16 +277,12 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    
-    -moz-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: FlipH;
-    -ms-filter: "FlipH";
 }
 
 header .intro-text {
+    text-align: left;
+    width: 100%;
+    height: 100%;
     padding-top: 100px;
     padding-bottom: 50px;
 }
