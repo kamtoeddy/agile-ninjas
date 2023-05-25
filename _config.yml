@@ -31,6 +31,13 @@ people:
       - title: envelope
         url: mailto:ssendegeyakyeyune@gmail.com
 
+  - name: Linda Bawa
+    pic: linda.jpg
+    role: Product Owner
+    social:
+      - title: linkedin
+        url: http://linkedin.com/in/linda-bawa-b7219312a
+
   - name: Kamto Eddy
     pic: eddy.jpg
     role: Software Engineer
