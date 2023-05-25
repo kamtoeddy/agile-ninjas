@@ -13,7 +13,7 @@ people:
     role: Scrum Master
     social:
       - title: linkedin
-        url: www.LinkedIn.com/in/tayo-daramola
+        url: http://www.LinkedIn.com/in/tayo-daramola
 
   - name: Augustina Onwubuya
     pic: augustina.jpg
@@ -25,6 +25,11 @@ people:
   - name: Michael Collins
     pic: michael.jpg
     role: Product Owner
+    social:
+      - title: linkedin
+        url: http://www.linkedin.com/in/ssendegeya-kyeyune
+      - title: mail
+        url: mailto:ssendegeyakyeyune@gmail.com
 
   - name: Kamto Eddy
     pic: eddy.jpg
