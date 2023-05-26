@@ -66,6 +66,13 @@ people:
       - title: linkedin
         url: https://www.linkedin.com/in/victor-enebeli-639120231
 
+  - name: Tabot Ayuk
+    pic: tabot-ayuk.jpg
+    role: QA Engineer
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/tabot-james
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
