@@ -38,19 +38,6 @@ people:
       - title: linkedin
         url: http://linkedin.com/in/linda-bawa-b7219312a
 
-  - name: Kamto Eddy
-    pic: eddy.jpg
-    role: Software Engineer
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/kaed/
-      - title: twitter
-        url: https://twitter.com/eddy_kamto
-
-  - name: Akangwa Willensky
-    pic: willensky.jpg
-    role: Software Engineer
-
   - name: Shey Anabell
     pic: anabell.jpg
     role: QA Engineer
@@ -66,12 +53,34 @@ people:
       - title: linkedin
         url: https://www.linkedin.com/in/victor-enebeli-639120231
 
+  - name: Akangwa Willensky
+    pic: willensky.jpg
+    role: Software Engineer
+
+  - name: Kamto Eddy
+    pic: eddy.jpg
+    role: Software Engineer
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/kaed/
+      - title: twitter
+        url: https://twitter.com/eddy_kamto
+
   - name: Tabot Ayuk
     pic: tabot-ayuk.jpg
     role: Software Engineer
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/tabot-james
+
+  - name: Blake Yenesi
+    pic: blake.jpg
+    role: Software Engineer | Graphic Designer
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/yenesi-blake
+      - title: envelope
+        url: mailto:blakeyenesi@gmail.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
